@@ -25,7 +25,8 @@
 ### Frontend  
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,css,bootstrap,html,js,ts,sass,laravel,svelte,figma,jquery&perline=3)](https://skillicons.dev)
+  TODO
+<!-- [![My Skills](https://skillicons.dev/icons?i=react,nextjs,css,bootstrap,html,js,ts,sass,laravel,svelte,figma,jquery&perline=3)](https://skillicons.dev) -->
 
 </div>
 
@@ -37,8 +38,8 @@
 ### Backend  
 <div align="center">  
 
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,nodejs,deno,python,go,mongo,electron,express,flask,rocket,actix&perline=3)](https://skillicons.dev)
+  TODO
+<!-- [![My Skills](https://skillicons.dev/icons?i=cpp,c,nodejs,deno,python,go,mongo,electron,express,flask,rocket,actix&perline=3)](https://skillicons.dev) -->
   
   
 </div>
@@ -49,8 +50,8 @@
 
 ### DevOps  
 
-  
-[![My Skills](https://skillicons.dev/icons?i=aws,vercel,linux,bash,git,docker&perline=3)](https://skillicons.dev)
+  TODO
+<!-- [![My Skills](https://skillicons.dev/icons?i=aws,vercel,linux,bash,git,docker&perline=3)](https://skillicons.dev) -->
   
   
 </div>
