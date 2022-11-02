@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Zubair, A Computer Engineering freshman</div>  
+### <div align="center">I'm Zubair, A Computer Science freshman</div>  
   
 
 - 🌱 I’m currently learning Data Structures and Algorithms  
