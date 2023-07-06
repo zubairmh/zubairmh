@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Data Structures and Algorithms  
   
 
-- ❓ Ask me about anything related to REST API development  
+- ❓ Ask me about anything related to backend systems
   
 
 - ⚡ Fun fact: I use vim over emacs  
