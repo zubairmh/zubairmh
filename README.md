@@ -40,7 +40,7 @@
 <br/>  
 
 ## Discord Status
-![discord profile](https://plug.ninja/theme-1/1035243139830652988?size=128)
+![discord profile](https://plug.re/theme-1/1035243139830652988?size=256)
 
 ## Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=zubairmh&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
