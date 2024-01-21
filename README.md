@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Zubair, A Computer Science freshman</div>  
+### <div align="center">I'm Zubair, A Computer Science sophomore</div>  
   
 
-- 🌱 I’m currently learning Data Structures and Algorithms  
+- 🌱 I’m currently learning about Transformer Models
   
 
-- ❓ Ask me about anything related to backend systems
+- ❓ Ask me about anything related to backend/devops
   
 
-- ⚡ Fun fact: I use vim over emacs  
+- 🐱🥁 fun fact: the average cat is left handed
   
 
 <br/>  
@@ -39,7 +39,7 @@
 
 <br/>  
 
-## Discord Status
+## Discord Status (also built by me)
 ![discord profile](https://plug.re/theme-1/1035243139830652988?size=256)
 
 ## Github Stats  
