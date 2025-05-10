@@ -46,7 +46,7 @@
 
 <br/>  
 
-## Discord Status (also built by me)
+## Discord Status (Try plug.re)
 ![discord profile](https://plug.re/theme-1/1035243139830652988?size=256)
 
 ## Github Stats  
