@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Zubair, A Computer Science sophomore</div>  
+### <div align="center">I'm Zubair, A Computer Science student</div>  
   
 
-- 🌱 I’m currently learning about Embedded Systems
+- 🌱 I’m currently learning about Quantum Computing
   
 
 - ❓ Ask me about anything related to backend/devops
